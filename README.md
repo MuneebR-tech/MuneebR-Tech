@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00F0FF&center=true&vCenter=true&width=1000&lines=HI+I+am+Muneeb+Ur+Rehman;Full+Stack+Architect+%26+Agentic+AI+Engineer" alt="Typing Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00F0FF&center=true&vCenter=true&width=1000&lines=HI+I+am+Muneeb+Ur+Rehman;CS+Student+%26+Software+Developer" alt="Typing Banner" />
 </div>
 
 <p align="center">
-  <samp>⚡ Architecting intelligent systems • Building the future of autonomous AI ⚡</samp>
+  <samp>⚡ Passionate about coding • Building cool software projects ⚡</samp>
 </p>
 
 ---
@@ -15,9 +15,9 @@
 name: Muneeb Ur Rehman
 alias: MuneebR-Tech
 location: Faisalabad, Pakistan → UMT Lahore
-role: Full Stack Architect & Agentic AI Engineer
+role: CS Student & Software Developer
 education: Currently at UMT Lahore
-philosophy: Build autonomous systems that think, adapt, and evolve
+philosophy: Keep learning, building, and solving problems
 ```
 
 <br/>
@@ -45,10 +45,10 @@ philosophy: Build autonomous systems that think, adapt, and evolve
 
 ## 🚀 Current Focus
 
-▸ **Architecting** multi-agent systems with recursive improvement loops  
-▸ **Building** real-time data visualization pipelines for IoT/robotics  
-▸ **Exploring** neuro-symbolic AI for robotic reasoning  
-▸ **Developing** full-stack templates for rapid AI product deployment       
+▸ **Learning** and applying core Computer Science concepts  
+▸ **Building** web applications and software projects  
+▸ **Exploring** new technologies and frameworks  
+▸ **Developing** my skills in Python, C++, HTML, CSS, and Databases
 
 ---
 
@@ -75,11 +75,11 @@ philosophy: Build autonomous systems that think, adapt, and evolve
 
 <p align="center"> 
   <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/36/country-4x3/pk.png" width="24" alt="PK Flag"/> 
-  <b>Based in Pakistan</b> — From Faisalabad, currently shaping the next generation of AI at <b>UMT Lahore</b>.
+  <b>Based in Pakistan</b> — From Faisalabad, currently studying Computer Science at <b>UMT Lahore</b>.
 </p>
 
 ---
 
 ## ✨ Philosophy
 
-> *"Build systems that don't just compute — they reason. Don't just react — they anticipate. Don't just follow — they lead."*
+> *"Continuous learning and building things that matter."*
