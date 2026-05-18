@@ -45,10 +45,9 @@ philosophy: Keep learning, building, and solving problems
 
 ## 🚀 Current Focus
 
-▸ **Learning** and applying core Artificial Intelligence concepts  
-▸ **Building** web applications and software projects  
-▸ **Exploring** new technologies and frameworks  
-▸ **Developing** my skills in Python, C++, HTML, CSS, and Databases
+▸ **Core Focus:** Agentic AI and Machine Learning  
+▸ **Secondary Focus:** Data Visualization and Robotics  
+▸ **Developing:** My skills in Python, C++, HTML, CSS, and Databases
 
 ---
 
