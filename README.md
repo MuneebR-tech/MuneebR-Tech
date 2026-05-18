@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00F0FF&center=true&vCenter=true&width=1000&lines=HI+I+am+Muneeb+Ur+Rehman;CS+Student+%26+Software+Developer" alt="Typing Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00F0FF&center=true&vCenter=true&width=1000&lines=HI+I+am+Muneeb+Ur+Rehman;AI+Student" alt="Typing Banner" />
 </div>
 
 <p align="center">
@@ -15,7 +15,7 @@
 name: Muneeb Ur Rehman
 alias: MuneebR-Tech
 location: Faisalabad, Pakistan → UMT Lahore
-role: CS Student & Software Developer
+role: AI Student
 education: Currently at UMT Lahore
 philosophy: Keep learning, building, and solving problems
 ```
@@ -45,7 +45,7 @@ philosophy: Keep learning, building, and solving problems
 
 ## 🚀 Current Focus
 
-▸ **Learning** and applying core Computer Science concepts  
+▸ **Learning** and applying core Artificial Intelligence concepts  
 ▸ **Building** web applications and software projects  
 ▸ **Exploring** new technologies and frameworks  
 ▸ **Developing** my skills in Python, C++, HTML, CSS, and Databases
@@ -75,7 +75,7 @@ philosophy: Keep learning, building, and solving problems
 
 <p align="center"> 
   <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/36/country-4x3/pk.png" width="24" alt="PK Flag"/> 
-  <b>Based in Pakistan</b> — From Faisalabad, currently studying Computer Science at <b>UMT Lahore</b>.
+  <b>Based in Pakistan</b> — From Faisalabad, currently studying Artificial Intelligence at <b>UMT Lahore</b>.
 </p>
 
 ---
