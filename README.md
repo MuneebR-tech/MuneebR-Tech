@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00F0FF&center=true&vCenter=true&width=1000&lines=Muneeb+R.+Tech;Full+Stack+Architect+%26+Agentic+AI+Engineer" alt="Typing Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00F0FF&center=true&vCenter=true&width=1000&lines=HI+I+am+Muneeb+Ur+Rehman;Full+Stack+Architect+%26+Agentic+AI+Engineer" alt="Typing Banner" />
 </div>
 
 <p align="center">
