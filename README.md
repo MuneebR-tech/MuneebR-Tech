@@ -23,7 +23,7 @@ philosophy: Build autonomous systems that think, adapt, and evolve
 <br/>
 
 <p align="center"> 
-  <img src="https://skillicons.dev/icons?i=py,js,ts,nodejs,react,nextjs,tailwind,fastapi,flask,postgres,mongodb,redis,docker,kubernetes,aws,gcp,tensorflow,pytorch,ros,linux,git,githubactions" alt="Tech Stack"/> 
+  <img src="https://skillicons.dev/icons?i=py,cpp,mysql,html,css" alt="Tech Stack"/> 
 </p>                                             
 
 ---
